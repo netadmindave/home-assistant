@@ -51,7 +51,9 @@ ECONET_DATA = 'econet'
 HA_STATE_TO_ECONET = {
     STATE_ECO: 'Energy Saver',
     STATE_ELECTRIC: 'Electric',
+    STATE_ELECTRIC: 'Electric-Only',
     STATE_HEAT_PUMP: 'Heat Pump',
+    STATE_HEAT_PUMP: 'Heat Pump Only',
     STATE_GAS: 'gas',
     STATE_HIGH_DEMAND: 'High Demand',
     STATE_OFF: 'Off',
